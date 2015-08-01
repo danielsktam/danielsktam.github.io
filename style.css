@@ -9,7 +9,7 @@
 }
 
 #picturebox{
-	background-image: url("https://secure.static.tumblr.com/ec7c058b81349b14bb9baeb0bfb6f070/wtvo4bp/luFmxlouh/tumblr_static_image-fascinating-images-from-outer-space-update-dec_4958696.jpg");
+	background-image: url("/css/background.png");
 	background-position: center;
 	background-size: 100%;
 	height:600px;
