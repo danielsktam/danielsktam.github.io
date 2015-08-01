@@ -9,7 +9,7 @@
 }
 
 #picturebox{
-	background-image: url("/css/background.png");
+	background-image: url(/css/background.png);
 	background-position: center;
 	background-size: 100%;
 	height:600px;
