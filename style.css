@@ -22,17 +22,21 @@
 #foot{
 	padding-top: 40px;
 	padding-bottom: 20px;
-	
 }
 
 #space{
 	padding-top: 20px;
 }
 
+ul li:hover ul {
+  display: block;
+  opacity: 0.70;
+  visibility: visible;
+}
 ul li ul {
-  padding: 0;
+  padding: 5px;
   position: absolute;
-  top: 48px;
+  top: 40px;
   left: 0;
   width: 150px;
   -webkit-box-shadow: none;
@@ -47,15 +51,12 @@ ul li ul {
   -o-transition: opacity 0.2s;
   -transition: opacity 0.2s;
 }
+
 ul li ul li { 
-  background: #555; 
+  background: ##99CCFF; 
   display: block; 
-  color: #fff;
+  color: #000000;
   text-shadow: 0 -1px 0 #000;
 }
-ul li ul li:hover { background: #666; }
-ul li:hover ul {
-  display: block;
-  opacity: 1;
-  visibility: visible;
-}
+ul li ul li:hover { background: #FF9966; }
+
