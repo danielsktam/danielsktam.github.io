@@ -53,10 +53,11 @@ ul li ul {
 }
 
 ul li ul li { 
-  background: #99CCFF; 
+  padding: 10px;
+  background: #C1FFFF; 
   display: block; 
   color: #000000;
   text-shadow: 0 -1px 0 #000;
 }
-ul li ul li:hover { background: #FF9966; }
+ul li ul li:hover { background: #C1FFFF; }
 
