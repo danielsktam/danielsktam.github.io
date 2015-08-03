@@ -13,3 +13,7 @@ $('a[href*=#]:not([href=#])').click(function() {
         }
     }
 });
+
+$('.nav-tabs > li > a').hover( function(){
+      $(this).tab('show');
+   });
