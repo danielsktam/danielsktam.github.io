@@ -2,10 +2,26 @@
 #head {
 	padding-top: 20px;
 /*	padding-bottom: 20px; */
-
 } 
 
-#box{
+#edubox{
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+#backbox{
+	background-color: #B6DECA;
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+#projbox{
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+#skillbox{
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+#connectbox{
 	padding-top: 50px;
 	padding-bottom: 0px;
 }
@@ -32,6 +48,7 @@ ul li {
 #space{
 	padding-top: 20px;
 }
+#backbox
 
 h4 {
 	color: blue;
