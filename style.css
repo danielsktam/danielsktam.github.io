@@ -10,6 +10,8 @@
 }
 #backbackbox{
 	background-color: #c8c8c8;
+	background-size: 100%;
+	padding-bottom: 30px;
 }
 #backbox{
 	padding-top: 50px;
