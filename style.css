@@ -14,7 +14,8 @@
 }
 #backbackbox{
 	background-color: #c8c8c8;
-	width: auto;
+	margin: 0;
+	padding: 0;
 	padding-bottom: 60px;
 }
 #backbox{
