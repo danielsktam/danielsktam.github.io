@@ -4,32 +4,25 @@
 /*	padding-bottom: 20px; */
 } 
 #aboutbox {
-	padding-top: 50px;
-	padding-bottom: 60px;
+	padding-top: 40px;
+	padding-bottom: 50px;
 	border-style: dashed;
 }
-
-#edubox{
-	padding-top: 50px;
+#backbox{
+	padding-top: 40px;
 	padding-bottom: 50px;
 }
 #backbackbox{
 	background-color: gray;
 	background-size: 100%;
-	margin: 0;
-	padding: 0;
-	padding-bottom: 60px;
 }
-#backbox{
-	padding-top: 50px;
-	padding-bottom: 0px;
+#edubox{
+	padding-top: 40px;
+	padding-bottom: 50px;
 }
-#projbox{
-	padding-top: 50px;
-	padding-bottom: 0px;
-}
+
 #skillbox{
-	padding-top: 50px;
+	padding-top: 40px;
 	padding-bottom: 50px;
 }
 #backskillbox{
@@ -63,8 +56,6 @@ ul li {
 #space{
 	padding-top: 20px;
 }
-#backbox
-
 h4 {
 	color: blue;
 }
