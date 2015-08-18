@@ -32,6 +32,10 @@
 	padding-top: 50px;
 	padding-bottom: 0px;
 }
+#backskillbox{
+	background-color: gray;
+	background-size: 100%;
+}
 #connectbox{
 	padding-top: 50px;
 	padding-bottom: 0px;
