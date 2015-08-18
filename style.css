@@ -11,7 +11,7 @@
 
 #edubox{
 	padding-top: 50px;
-	padding-bottom: 0px;
+	padding-bottom: 50px;
 }
 #backbackbox{
 	background-color: gray;
@@ -30,7 +30,7 @@
 }
 #skillbox{
 	padding-top: 50px;
-	padding-bottom: 0px;
+	padding-bottom: 50px;
 }
 #backskillbox{
 	background-color: gray;
