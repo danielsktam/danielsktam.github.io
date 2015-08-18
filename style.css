@@ -26,7 +26,8 @@
 	padding-bottom: 50px;
 }
 #backskillbox{
-	background-color: gray;
+	background-image: url(/img/blueprint.png);
+	background-position:center;
 	background-size: 100%;
 }
 #connectbox{
