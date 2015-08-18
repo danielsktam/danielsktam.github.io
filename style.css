@@ -49,6 +49,8 @@
 #foot{
 	padding-top: 20px;
 	padding-bottom: 10px;
+	background-color: black;
+	color: white;
 }
 
 ul li { 
