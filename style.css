@@ -6,7 +6,6 @@
 #aboutbox {
 	padding-top: 40px;
 	padding-bottom: 50px;
-	border-style: dashed;
 }
 #backbox{
 	padding-top: 40px;
@@ -37,7 +36,6 @@
 #connectbox{
 	padding-top: 30px;
 	padding-bottom: 50px;
-	border-style: dotted;
 }
 
 #picturebox{
