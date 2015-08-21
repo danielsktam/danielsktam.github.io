@@ -12,7 +12,7 @@
 	padding-bottom: 50px;
 }
 #backbackbox{
-	background-color: white;
+	background-color: gray;
 	background-size: 100%;
 }
 #edubox{
@@ -64,5 +64,5 @@ ul li {
 }
 
 #ff881img:hover {
-	color: black;
+	background-color: black;
 }
