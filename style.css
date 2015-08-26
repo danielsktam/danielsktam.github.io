@@ -63,6 +63,7 @@ ul li {
 	padding-top: 20px;
 }
 
-#ff881img:hover {
-	opacity: 0.3;
+#hoverball:hover {
+	opacity: 0.5;
+	filter: alpha(opacity=50);
 }
