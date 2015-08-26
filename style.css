@@ -64,5 +64,5 @@ ul li {
 }
 
 #ff881img:hover {
-	background-color: black;
+	opacity: 0.3;
 }
